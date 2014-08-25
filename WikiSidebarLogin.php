@@ -3,7 +3,7 @@ $wgExtensionCredits['validextensionclass'][] = array(
     'path' => __FILE__,
     'name' => 'Wiki Sidebar Login',
     'author' => 'UBC CTLT',
-    'url' => 'https://wiki.ubc.ca',
+    'url' => 'http://wiki.ubc.ca',
     'description' => 'Adds a login link to the sidebar for users who are not loggedin',
     'version'  => 1,
 );
